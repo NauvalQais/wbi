@@ -8,4 +8,4 @@ streamlit
 pandas
 numpy
 joblib
-pyarrow==15.0.2
+pyarrow==12.0.1
