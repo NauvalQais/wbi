@@ -3,9 +3,10 @@ cloudpickle==2.2.1
 configparser==5.0.2
 lz4==4.3.2
 psutil==5.9.0
-scikit-learn==1.2.2
-typing-extensions==4.9.0
-streamlit
-joblib
-numpy
-pandas
+scikit-learn==1.6.1
+typing-extensions==4.12.2
+streamlit>=1.35.0
+joblib>=1.4.0
+numpy>=1.26.0
+pandas>=2.2.0
+pyarrow>=16.0.0
